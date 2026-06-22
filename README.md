@@ -1,35 +1,116 @@
+<!--
+                   ___________________________
+                  /                           \
+                  |  SYSTEM ONLINE             |
+                  |  USER: Dinos0717           |
+                  |  STATUS: BUILDING COOL $H!T |
+                  ___________________________/
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Hey%20There!%20👋&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Dinos0717%20🚀&descSize=25&descAlignY=55" />
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗ ██╗███╗   ██╗ ██████╗ ███████╗ ██████╗ ██╗  ██╗███████╗███╗   ██╗
+║   ██╔══██╗██║████╗  ██║██╔═══██╗██╔════╝██╔════╝ ██║  ██║██╔════╝████╗  ██║
+║   ██║  ██║██║██╔██╗ ██║██║   ██║███████╗██║      ███████║█████╗  ██╔██╗ ██║
+║   ██║  ██║██║██║╚██╗██║██║   ██║╚════██║██║      ██╔══██║██╔══╝  ██║╚██╗██║
+║   ██████╔╝██║██║ ╚████║╚██████╔╝███████║╚██████╗ ██║  ██║███████╗██║ ╚████║
+║   ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
+║                                                                              ║
+║   ███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗                               ║
+║   ██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗                              ║
+║   ███████╗   ██║   ██║   ██║██║  ██║██║██║   ██║                              ║
+║   ╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║                              ║
+║   ███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝                              ║
+║   ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝                               ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-[!Typing SVG](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+┌─────────────────────────────────────────────────────────────────┐
+│  guest@github:~$ whoami                                          │
+│  > Dinos0717                                                     │
+│                                                                  │
+│  guest@github:~$ cat /etc/motd                                   │
+│  > Full-Stack Developer • Open Source Enthusiast • Builder       │
+│  > "I turn coffee into code and ideas into products"             │
+│                                                                  │
+│  guest@github:~$ uptime                                          │
+│  > Coding since 2020 • 99.9% caffeine uptime                     │
+│                                                                  │
+│  guest@github:~$ ls -la ~/projects/                              │
+│  > drwxr-xr-x  cool-stuff   drwxr-xr-x  open-source              │
+│  > drwxr-xr-x  experiments  drwxr-xr-x  side-hustles             │
+│                                                                  │
+│  guest@github:~$ █                                               │
+└─────────────────────────────────────────────────────────────────┘
 
 </div>
 
 <br/>
 
+<!-- ============ CONNECT ============ -->
+
+<div align="center">
+
+[!Gmail](mailto:hi@dinos0717.dev)
+[!X](https://x.com/Dinos0717)
+[!Discord](https://discord.gg/dinos0717)
+[!GitHub](https://github.com/Dinos0717)
+
+</div>
+
+<br/>
+
+***
+<!-- ============ SKILL MATRIX ============ -->
+
+<div align="center">
+
+[ SKILL MATRIX ]
+
+</div>
+
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td width="50%">
 
-🧑‍💻  About Me
+>_ languages
+TypeScript   [████████████████████░░░]  92%
+JavaScript   [██████████████████████░░]  96%
+Python       [███████████████████░░░░░]  85%
+Go           [██████████████░░░░░░░░░░░]  70%
+Rust         [███████████░░░░░░░░░░░░░░]  55%
+Kotlin       [██████████████░░░░░░░░░░░]  68%
+SQL          [███████████████████░░░░░░]  82%
 
-🔭 I'm currently working on awesome projects
-🌱 I'm currently learning everything that excites me
-👯 I'm looking to collaborate on open source
-💬 Ask me about Web Dev, DevOps, AI
-⚡ Fun fact: I turn coffee into code ☕ → 💻
+>_ frontend
+React        [████████████████████░░░░]  90%
+Next.js      [███████████████████░░░░░░]  88%
+Vue.js       [██████████████░░░░░░░░░░░]  72%
+TailwindCSS  [████████████████████████░]  97%
+Three.js     [█████████░░░░░░░░░░░░░░░░]  45%
 
 </td>
-<td valign="top" width="50%">
+<td width="50%">
 
-🎯  Daily Vibes
+>_ backend / infra
+Node.js      [█████████████████████░░░░]  93%
+Docker       [██████████████████░░░░░░░░]  82%
+Kubernetes   [███████████░░░░░░░░░░░░░░░]  58%
+AWS          [████████████████░░░░░░░░░░]  78%
+PostgreSQL   [█████████████████░░░░░░░░░]  84%
+Redis        [███████████████░░░░░░░░░░░]  76%
 
-💻 Coding       ██████████░░░  85%
-🐛 Debugging    ██████░░░░░░░  50%
-☕ Coffee       ████████████░  95%
-🎵 Music        ████████░░░░░  70%
-📚 Learning     ██████████░░░  80%
+>_ ai / ml
+PyTorch      [█████████████░░░░░░░░░░░░]  62%
+LangChain    [██████████████░░░░░░░░░░░░]  68%
+OpenAI API   [███████████████████░░░░░░░]  86%
+Vector DB    [████████████░░░░░░░░░░░░░░]  60%
 
 </td>
 </tr>
@@ -37,129 +118,189 @@
 
 <br/>
 
+***
+<!-- ============ TECH STACK BADGES ============ -->
+
 <div align="center">
 
-🌐  Connect With Me
+[ LOADOUT ]
 
-[!Portfolio](https://Dinos0717.dev)
-[!LinkedIn](https://linkedin.com/in/Dinos0717)
-[!X](https://x.com/Dinos0717)
-[!Email](mailto:hi@Dinos0717.dev)
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,kotlin,swift&theme=dark&perline=7" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,threejs,svelte,astro&theme=dark&perline=7" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,aws,postgres,redis,graphql&theme=dark&perline=7" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,figma,neovim,linux,githubactions&theme=dark&perline=7" />
 
 </div>
 
 <br/>
 
 ***
+<!-- ============ GITHUB STATS DASHBOARD ============ -->
+
 <div align="center">
 
-⚡  Tech Arsenal
+[ ANALYTICS DASHBOARD ]
 
-💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
-🎨 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-⚙️ Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-🤖 AI & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-🛠️ Tools I Love
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)![Arch](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<a href="https://github.com/Dinos0717">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dinos0717&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&ring_color=F78166&border_radius=15&custom_title=📊%20Mission%20Stats" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://github.com/Dinos0717">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinos0717&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_radius=15&custom_title=🔧%20Tech%20Distribution" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+[!GitHub Streak](https://git.io/streak-stats)
+
+<br/>
+
+<img width="85%" src="https://github-profile-trophy.vercel.app/?username=Dinos0717&theme=discord&no-frame=true&column=8&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+
+<br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dinos0717&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=F78166&point=FFFFFF&radius=16&custom_title=📈%20Contribution%20Timeline" />
+
 </div>
 
 <br/>
 
 ***
+<!-- ============ CONTRIBUTION 3D GLOBE ============ -->
+
 <div align="center">
 
-📊  GitHub Analytics
+[ GLOBAL IMPACT ]
 
-<p align="center">
-  <a href="https://github.com/Dinos0717">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinos0717&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinos0717&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10"/>
-  </a>
-</p>
+<img width="60%" src="https://github.com/Dinos0717/Dinos0717/blob/main/globe.gif?raw=true" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinos0717&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F78166&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dinos0717&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15&bg_color=0D1117" />
-</p>
-
-<details>
-<summary>📈  <b>More Stats</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinos0717&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=F78166&point=FFFFFF" />
-</p>
-</details>
+> 💡 Tip: Generate your 3D contribution globe at satanic.io
 
 </div>
 
 <br/>
 
 ***
+<!-- ============ SNAKE GAME ============ -->
+
 <div align="center">
 
-🐍  Contribution Snake
+[ MINIGAME: SNAKE ]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dinos0717/Dinos0717/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dinos0717/Dinos0717/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dinos0717/Dinos0717/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
-
-<br/>
-
-***
-<div align="center">
-
-🎧  Now Playing on Spotify
-
-[!Spotify](https://open.spotify.com/user/Dinos0717)
+> 🎮 Watch the snake eat your contributions!
 
 </div>
 
 <br/>
 
 ***
+<!-- ============ RECENT ACTIVITY ============ -->
+
 <div align="center">
 
-✍️  Random Dev Quote
+[ RECENT ACTIVITY LOG ]
+
+[2024-12-15 14:32:11] PUSH       main        feat: add awesome new feature
+[2024-12-15 10:15:43] PR MERGED  #42         Fix: resolve memory leak
+[2024-12-14 22:01:09] COMMIT     dev         refactor: clean up codebase
+[2024-12-14 16:45:30] DEPLOY     production  v2.4.1 deployed successfully
+[2024-12-14 09:00:00] ISSUE      #58         New feature request opened
+
+</div>
+
+<br/>
+
+***
+<!-- ============ BLOG / THOUGHTS ============ -->
+
+<div align="center">
+
+[ DATA LOG ]
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" />
+  <br/>
+  <b>Latest Blog Post</b>
+  <br/>
+  <sub>Coming soon...</sub>
+</td>
+<td width="33%" align="center">
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
+  <br/>
+  <b>Current Project</b>
+  <br/>
+  <sub>Building something cool</sub>
+</td>
+<td width="33%" align="center">
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter-Dark.svg" />
+  <br/>
+  <b>Latest Tweet</b>
+  <br/>
+  <sub>Stay tuned...</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+***
+<!-- ============ QUOTE & VISITOR ============ -->
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div>
-
 <br/>
 
-***
-<div align="center">
+┌──────────────────────────────────────────────────────┐
+│  SYSTEM READY. DEPLOYING TO PRODUCTION...            │
+│  ████████████████████████████████████████ 100%       │
+│                                                      │
+│  Thanks for stopping by! Come back anytime. 👾       │
+│                                                      │
+│  ╔════════════════════════════════╗                  │
+│  ║  VISITOR_COUNT: ![views]      ║                  │
+│  ╚════════════════════════════════╝                  │
+└──────────────────────────────────────────────────────┘
 
-🏆  My GitHub Journey
-
-timeline
-    title My Coding Odyssey
-    2020 : Hello World 👶 : First line of code
-    2021 : Web Dev 🌐 : HTML, CSS, JS
-    2022 : Full Stack 🚀 : React, Node, Docker
-    2023 : Cloud & AI ☁️ : AWS, LLMs, DevOps
-    2024 : Open Source 💚 : Contributing & Building
-    2025 : Scaling Up 📈 : Architecting & Leading
-
+![Profile Views](https://komarev.com/ghpvc/?username=Dinos0717&color=blueviolet&style=for-the-badge&label=VISITORS)
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=120&section=footer&animation=fadeIn" />
-
-💡 "Code is like humor. When you have to explain it, it's bad." 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dinos0717&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-</div>
+<!-- 
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  BUILT WITH ❤️ AND TOO MUCH CAFFEINE                         ║
+  ║  LAST UPDATED: when I push code instead of sleeping          ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
