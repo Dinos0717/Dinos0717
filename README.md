@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Hey%20There!%20👋&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20DinosChen%20🚀&descSize=25&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Hey%20There!%20👋&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Dinos0717%20🚀&descSize=25&descAlignY=55" />
 
 [!Typing SVG](https://git.io/typing-svg)
 
@@ -41,10 +41,10 @@
 
 🌐  Connect With Me
 
-[!Portfolio](https://dinoschen.dev)
-[!LinkedIn](https://linkedin.com/in/dinoschen)
-[!X](https://x.com/dinoschen)
-[!Email](mailto:hi@dinoschen.dev)
+[!Portfolio](https://Dinos0717.dev)
+[!LinkedIn](https://linkedin.com/in/Dinos0717)
+[!X](https://x.com/Dinos0717)
+[!Email](mailto:hi@Dinos0717.dev)
 
 </div>
 
@@ -75,25 +75,25 @@
 📊  GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/dinoschen">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinoschen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoschen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10"/>
+  <a href="https://github.com/Dinos0717">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinos0717&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinos0717&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoschen&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F78166&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinos0717&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F78166&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dinoschen&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15&bg_color=0D1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dinos0717&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15&bg_color=0D1117" />
 </p>
 
 <details>
 <summary>📈  <b>More Stats</b></summary>
 <br/>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinoschen&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=F78166&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinos0717&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=F78166&point=FFFFFF" />
 </p>
 </details>
 
@@ -107,9 +107,9 @@
 🐍  Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinoschen/dinoschen/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinoschen/dinoschen/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dinoschen/dinoschen/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dinos0717/Dinos0717/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dinos0717/Dinos0717/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dinos0717/Dinos0717/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -121,7 +121,7 @@
 
 🎧  Now Playing on Spotify
 
-[!Spotify](https://open.spotify.com/user/dinoschen)
+[!Spotify](https://open.spotify.com/user/Dinos0717)
 
 </div>
 
@@ -161,5 +161,5 @@ timeline
 
 💡 "Code is like humor. When you have to explain it, it's bad." 
 
-![Profile Views](https://komarev.com/ghpvc/?username=dinoschen&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Dinos0717&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 </div>
