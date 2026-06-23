@@ -31,6 +31,7 @@
 
 <div align="center">
 
+```
 ┌─────────────────────────────────────────────────────────────────┐
 │  guest@github:~$ whoami                                          │
 │  > Dinos0717                                                     │
@@ -48,6 +49,7 @@
 │                                                                  │
 │  guest@github:~$ █                                               │
 └─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -57,28 +59,60 @@
 
 <div align="center">
 
-[!Gmail](mailto:hi@dinos0717.dev)
-[!X](https://x.com/Dinos0717)
-[!Discord](https://discord.gg/dinos0717)
-[!GitHub](https://github.com/Dinos0717)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@dinos0717.dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dinos0717)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dinos0717)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinos0717)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://dinos0717.dev)
 
 </div>
 
 <br/>
 
-***
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dinos0717&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
+</div>
+
+---
+
+<!-- ============ CURRENTLY ============ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    ⚡ CURRENTLY FOCUSED ON                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🔭 Building: Next-gen AI-powered developer tools             ║
+║  🌱 Learning: Rust systems programming & WebAssembly         ║
+║  🤝 Open to collaborate on: Open source AI/ML projects       ║
+║  🎯 2026 Goal: Launch 3 side projects & speak at a conf     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
 <!-- ============ SKILL MATRIX ============ -->
 
 <div align="center">
 
-[ SKILL MATRIX ]
+```
+╔══════════════════════════════════════════════════════════════╗
+║                      🎯 SKILL MATRIX                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="33%">
 
+```
 >_ languages
 TypeScript   [████████████████████░░░]  92%
 JavaScript   [██████████████████████░░]  96%
@@ -87,43 +121,51 @@ Go           [██████████████░░░░░░░░
 Rust         [███████████░░░░░░░░░░░░░░]  55%
 Kotlin       [██████████████░░░░░░░░░░░]  68%
 SQL          [███████████████████░░░░░░]  82%
+```
 
->_ frontend
+</td>
+<td width="33%">
+
+```
+>_ frontend / tools
 React        [████████████████████░░░░]  90%
 Next.js      [███████████████████░░░░░░]  88%
 Vue.js       [██████████████░░░░░░░░░░░]  72%
 TailwindCSS  [████████████████████████░]  97%
 Three.js     [█████████░░░░░░░░░░░░░░░░]  45%
+Figma        [████████████████░░░░░░░░░░]  78%
+```
 
 </td>
-<td width="50%">
+<td width="33%">
 
->_ backend / infra
+```
+>_ backend / infra / ai
 Node.js      [█████████████████████░░░░]  93%
 Docker       [██████████████████░░░░░░░░]  82%
 Kubernetes   [███████████░░░░░░░░░░░░░░░]  58%
 AWS          [████████████████░░░░░░░░░░]  78%
 PostgreSQL   [█████████████████░░░░░░░░░]  84%
 Redis        [███████████████░░░░░░░░░░░]  76%
-
->_ ai / ml
-PyTorch      [█████████████░░░░░░░░░░░░]  62%
 LangChain    [██████████████░░░░░░░░░░░░]  68%
 OpenAI API   [███████████████████░░░░░░░]  86%
-Vector DB    [████████████░░░░░░░░░░░░░░]  60%
+```
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-***
 <!-- ============ TECH STACK BADGES ============ -->
 
 <div align="center">
 
-[ LOADOUT ]
+```
+╔══════════════════════════════════════════════════════════════╗
+║                        🔧 LOADOUT                            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,kotlin,swift&theme=dark&perline=7" />
 
@@ -141,161 +183,158 @@ Vector DB    [████████████░░░░░░░░░░
 
 </div>
 
-<br/>
+---
 
-***
 <!-- ============ GITHUB STATS DASHBOARD ============ -->
 
 <div align="center">
 
-[ ANALYTICS DASHBOARD ]
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   📊 ANALYTICS DASHBOARD                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-<a href="https://github.com/Dinos0717">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dinos0717&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&ring_color=F78166&border_radius=15&custom_title=📊%20Mission%20Stats" />
-</a>
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://github.com/Dinos0717">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinos0717&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_radius=15&custom_title=🔧%20Tech%20Distribution" />
-</a>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
+<!-- Stats & Top Languages -->
+<a href="https://github.com/Dinos0717">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinos0717&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&ring_color=F78166&border_radius=15&custom_title=📊%20Mission%20Stats" />
+</a>
+<a href="https://github.com/Dinos0717">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinos0717&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_radius=15&custom_title=🔧%20Tech%20Distribution" />
+</a>
+
+<br/>
 <br/>
 
-[!GitHub Streak](https://git.io/streak-stats)
+<!-- Streak Stats -->
+<a href="https://git.io/streak-stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinos0717&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F78166&fire=F78166&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=15" />
+</a>
 
 <br/>
+<br/>
 
+<!-- GitHub Trophies -->
 <img width="85%" src="https://github-profile-trophy.vercel.app/?username=Dinos0717&theme=discord&no-frame=true&column=8&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 <br/>
+<br/>
 
+<!-- Contribution Activity Graph -->
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dinos0717&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=F78166&point=FFFFFF&radius=16&custom_title=📈%20Contribution%20Timeline" />
 
 </div>
 
-<br/>
+---
 
-***
-<!-- ============ CONTRIBUTION 3D GLOBE ============ -->
+<!-- ============ DYNAMIC ACTIVITY FEED ============ -->
 
 <div align="center">
 
-[ GLOBAL IMPACT ]
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   📡 LIVE ACTIVITY FEED                       ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<img width="60%" src="https://github.com/Dinos0717/Dinos0717/blob/main/globe.gif?raw=true" />
+<!-- Recent GitHub Activity - dynamic -->
+<img width="85%" src="https://github-readme-activity-log.vercel.app/api?username=Dinos0717&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&radius=16&custom_title=🔴%20Live%20Feed" />
 
-> 💡 Tip: Generate your 3D contribution globe at satanic.io
+<br/>
+<br/>
+
+<!-- Detailed metrics -->
+<img width="85%" src="https://metrics.lecoq.io/Dinos0717?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&activity=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&repositories=false&repositories.featured=Dinos0717%2FDinos0717&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=Asia%2FShanghai" />
 
 </div>
 
-<br/>
+---
 
-***
 <!-- ============ SNAKE GAME ============ -->
 
 <div align="center">
 
-[ MINIGAME: SNAKE ]
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🐍 MINIGAME: SNAKE                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dinos0717/Dinos0717/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dinos0717/Dinos0717/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dinos0717/Dinos0717/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> 🎮 Watch the snake eat your contributions!
+> 🎮 Watch the snake eat your contribution graph! (Updates daily)
 
 </div>
 
-<br/>
+---
 
-***
-<!-- ============ RECENT ACTIVITY ============ -->
+<!-- ============ SPOTIFY / NOW PLAYING ============ -->
 
 <div align="center">
 
-[ RECENT ACTIVITY LOG ]
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🎵 NOW VIBING TO                           ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-[2024-12-15 14:32:11] PUSH       main        feat: add awesome new feature
-[2024-12-15 10:15:43] PR MERGED  #42         Fix: resolve memory leak
-[2024-12-14 22:01:09] COMMIT     dev         refactor: clean up codebase
-[2024-12-14 16:45:30] DEPLOY     production  v2.4.1 deployed successfully
-[2024-12-14 09:00:00] ISSUE      #58         New feature request opened
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=58A6FF)](https://open.spotify.com/user/Dinos0717)
 
 </div>
 
-<br/>
+---
 
-***
-<!-- ============ BLOG / THOUGHTS ============ -->
+<!-- ============ RANDOM DEV STUFF ============ -->
 
 <div align="center">
 
-[ DATA LOG ]
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🎲 RANDOM DEVS JOKE                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<table align="center">
-<tr>
-<td width="33%" align="center">
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" />
-  <br/>
-  <b>Latest Blog Post</b>
-  <br/>
-  <sub>Coming soon...</sub>
-</td>
-<td width="33%" align="center">
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-  <br/>
-  <b>Current Project</b>
-  <br/>
-  <sub>Building something cool</sub>
-</td>
-<td width="33%" align="center">
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter-Dark.svg" />
-  <br/>
-  <b>Latest Tweet</b>
-  <br/>
-  <sub>Stay tuned...</sub>
-</td>
-</tr>
-</table>
-
-</div>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0D1117)
 
 <br/>
 
-***
-<!-- ============ QUOTE & VISITOR ============ -->
-
-<div align="center">
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    💡 RANDOM DEV QUOTE                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<br/>
 
-┌──────────────────────────────────────────────────────┐
-│  SYSTEM READY. DEPLOYING TO PRODUCTION...            │
-│  ████████████████████████████████████████ 100%       │
-│                                                      │
-│  Thanks for stopping by! Come back anytime. 👾       │
-│                                                      │
-│  ╔════════════════════════════════╗                  │
-│  ║  VISITOR_COUNT: ![views]      ║                  │
-│  ╚════════════════════════════════╝                  │
-└──────────────────────────────────────────────────────┘
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dinos0717&color=blueviolet&style=for-the-badge&label=VISITORS)
+---
+
+<!-- ============ FOOTER ============ -->
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  SYSTEM READY. DEPLOYING TO PRODUCTION...                        │
+│  ██████████████████████████████████████████████████████████ 100% │
+│                                                                  │
+│  ╔══════════════════════════════════════════════════════════════╗│
+│  ║           Thanks for stopping by! Come back anytime. 👾       ║│
+│  ╚══════════════════════════════════════════════════════════════╝│
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 <!-- 
